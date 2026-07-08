@@ -1,7 +1,8 @@
 # 📊 BrightMart Retail Profitability Analysis
 
 ![Executive Dashboard](Images/Executive Dashboard.png)
-│
+
+
 ├── Dataset
 │   └── BrightMart.xlsx
 │
